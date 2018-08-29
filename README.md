@@ -1,5 +1,4 @@
 # Bike-Share-Project
-First Project
 
 Code reads in a csv and provides interactive experience which allows the user to answer questions about the data such as: most popular times of travel, popular stations and most popular round trip, total trip durations, and user info (counts of each user type, counts of each gender, etc).
 
